@@ -1,0 +1,157 @@
+{
+  "status": 0,
+  "errcode": "0",
+  "errmsg": "OK",
+  "spaceInfo": [
+    {
+      "spaceID": "13184",
+      "spaceParam": "",
+      "adpType": 3,
+      "refreshInterval": 0,
+      "screenDirection": 1,
+      "width": "600",
+      "height": "500",
+      "adpPosition": {
+        "x": "60",
+        "y": "390"
+      },
+      "autoClose": true,
+      "maxTime": 0,
+      "manualClosable": true,
+      "minTime": 20,
+      "wifiPreload": false,
+      "mute": true,
+      "fullScreen": false,
+      "autoPlay": false,
+      "adResponse": [
+        {
+          "extInfo": "",
+          "contentInfo": [
+            {
+              "renderType": 4,
+              "adcontentSlot": [
+                {
+                  "md5": "md5",
+                  "content": "http://res1.hubcloud.com.cn/dsp/ad/2024/1/29/1706521095604.jpg",
+                  "mt": 1,
+                  "h": 0,
+                  "w": 0,
+                  "size": 0,
+                  "mime": "image/png"
+                },
+                {
+                  "md5": "x",
+                  "content": "",
+                  "mt": 2
+                },
+                {
+                  "md5": "x",
+                  "content": "",
+                  "mt": 2
+                }
+              ],
+              "template": "{\"title\":\"APP 标题内容\",\"desc\":\"APP 描述内容\",\"lauchImageUrl\":\"http://res1.hubcloud.com.cn/dsp/ad/2024/1/29/1706521095604.jpg\",\"appIcon\":\"https://res1.hubcloud.com.cn/dsp/ad/2024/1/31/1706690358943.jpg\",\"videoUrl\":\"https://media.w3.org/2010/05/sintel/trailer.mp4\",\"videoTime\":\"32\"}"
+            }
+          ],
+          "interactInfo": {
+            "thirdpartInfo": [
+              {
+                "viewUrl": "http://v.adx.hubcloud.com.cn/adx/m/view/v1?id=nTI2r6SjyUNzE3qKiEND7rSbih4oGQCC-wtnGCAMzmpiGLZ2nzmGHF0YGi3OegQRwS0_hTTIJag2MkFGaDFFfazJKIjnR0-zKXFZEXAAm2E4U8DC02TtBv9A1Wyx3_NrBDSTfdlBefyjTBEoU2bYavHjSlWGA_M47nJtHPh8tQloCfcASdceh5rzmf0&aid=5528&impid=10142-022863f3-9b54-436e-acf8-2e045ccd36ea&sid=10925&ts=1712747152&ts=.UTC_TS.&vt=__VT__",
+                "clickUrl": "",
+                "convertUrl": "",
+                "onStart": "http://www.baidu.com/1",
+                "onPause": "",
+                "onRecover": "",
+                "onFinish": "http://www.baidu.com/2",
+                "percent25": "http://www.baidu.com/25/1",
+                "percent50": "http://www.baidu.com/50/1",
+                "percent75": "http://www.baidu.com/75/1"
+              },
+              {
+                "viewUrl": "",
+                "clickUrl": "http://v.adx.hubcloud.com.cn/adx/m/click/v1?id=nTI2r6SjyUNzE3qKiEND7rSbih4oGQCC-wtnGCAMzmpiGLZ2nzmGHF0YGi3OegQRwS0_hTTIJag2MkFGaDFFfazJKIjnR0-zKXFZEXAAm2E4U8DC02TtBv9A1Wyx3_NrBDSTfdlBefyjTBEoU2bYavHjSlWGA_M47nJtHPh8tQloCfcASdceh5rzmf0&aid=5528&impid=10142-022863f3-9b54-436e-acf8-2e045ccd36ea&sid=10925&ts=1712747152&ts=.UTC_TS.&addx=.AD_CLK_PT_DOWN_X.&addy=.AD_CLK_PT_DOWN_Y.&adux=.AD_CLK_PT_UP_X.&aduy=.AD_CLK_PT_UP_Y.&scdx=.SCRN_CLK_PT_DOWN_X.&scdy=.SCRN_CLK_PT_DOWN_Y.&scux=.SCRN_CLK_PT_UP_X.&scuy=.SCRN_CLK_PT_UP_Y.&vt=__VT__",
+                "convertUrl": "",
+                "onStart": "http://www.baidu.com/3",
+                "onPause": "",
+                "onRecover": "",
+                "onFinish": "http://www.baidu.com/4",
+                "percent25": "http://www.baidu.com/25/2",
+                "percent50": "http://www.baidu.com/50/2",
+                "percent75": "http://www.baidu.com/75/2"
+              },
+              {
+                "viewUrl": "http://api.htp.hubcloud.com.cn:45600/vw?extInfo=zgT-dYFAz-bmupEMM9iE7TMHR_JqacVinLXC42KtcsX9g0lL-0PzNLRXgeBHg5tegIYw1UyyAYPHSAmwZAImHd98Cvi6ceT151UtoQkFQSvdT987E4tAX8bVbKTjiCEHBGgWGbOb9r9IJN5r4Tzvg5tb-iJTgN81KDZ8lhUIg0khY1x4JRewXuL609BSv9_QZm2ajhGBMYCgzeNmxhiAa1wbS3bQS9ydDedL_ZrBFH1ZAp9qoeQ7oIbraDa62bzpk0RVYnDOSxsjY5zjVVy6Br-o8g5v0T0jt3LhbpeXh0kgvz05ezDZ3WMtmCvaU_LVm7ybnn14_nqI-h6z4IrnrRu1fEjHg3qea4D0RQXotPivfg2ygzkCPeWIUBI6JYZXpZRsthpXUyl5OhNsu83O8ZRyJ86kMDyTWMrguY2zFdR_WIzS_aj6mspXJTNzwGegLLSgplVQYdVFHc5OTH-65gc2xZwQfiAF0uH4y-uDD1q5iBzHq7grZPuFBO9o9EZ5GmK5Ykw_jiYjS7Hgx_kUOBSFQQKp0CTfqT9jhr3yYtMPT2Jww3QkipORV7H1V43iPvvFQ8A4pUht9rL5B-0gd8wBBcofWrN9xxFDhjvmapm7fWtEHjQQ9KB-qiFn_13xeOkbeHNbCYKcl9rz01pCcTkC0Ks0kCaxta2FeB3tzLBJQzcMnlKaQyECNdW-gMOMRV2VoLYUs49zH3iB8t3jsrcoAv1tT7D1P6t7GePxd7gwaXXdga44yddLLHQazwf9R7eNqX38Klio3gfagACh5hGfrtvwTO56pCVmip95QtsMUgHTCiGIJbUpOpsyb_jJEpB7osl-rnsEN5vDR8HYFxBoWyhsbTv5NoNmrggyfqAuSgLikBtoMqjE3tuk5sq1T1ZQI7kqyZd6OaLDUs-g2r7uROUNqQXZ2bTcnoNQSGhaB_4h6lTFuc_Zd9yhbXrzEMVbvuipjIEyDnaBERe8Wjh3AHHxvq0wfDyGUUa78sNMExlxV_770k4mhrd-&ts=.UTC_TS.&vt=__VT__&requestUuid=__REQUESTUUID__",
+                "clickUrl": "http://api.htp.hubcloud.com.cn:45600/ck?extInfo=zgT-dYFAz-bmupEMM9iE7TMHR_JqacVinLXC42KtcsX9g0lL-0PzNLRXgeBHg5tegIYw1UyyAYPHSAmwZAImHd98Cvi6ceT151UtoQkFQSvdT987E4tAX8bVbKTjiCEHBGgWGbOb9r9IJN5r4Tzvg5tb-iJTgN81KDZ8lhUIg0khY1x4JRewXuL609BSv9_QZm2ajhGBMYCgzeNmxhiAa1wbS3bQS9ydDedL_ZrBFH1ZAp9qoeQ7oIbraDa62bzpk0RVYnDOSxsjY5zjVVy6Br-o8g5v0T0jt3LhbpeXh0kgvz05ezDZ3WMtmCvaU_LVm7ybnn14_nqI-h6z4IrnrRu1fEjHg3qea4D0RQXotPivfg2ygzkCPeWIUBI6JYZXpZRsthpXUyl5OhNsu83O8ZRyJ86kMDyTWMrguY2zFdR_WIzS_aj6mspXJTNzwGegLLSgplVQYdVFHc5OTH-65gc2xZwQfiAF0uH4y-uDD1q5iBzHq7grZPuFBO9o9EZ5GmK5Ykw_jiYjS7Hgx_kUOBSFQQKp0CTfqT9jhr3yYtMPT2Jww3QkipORV7H1V43iPvvFQ8A4pUht9rL5B-0gd8wBBcofWrN9xxFDhjvmapm7fWtEHjQQ9KB-qiFn_13xeOkbeHNbCYKcl9rz01pCcTkC0Ks0kCaxta2FeB3tzLBJQzcMnlKaQyECNdW-gMOMRV2VoLYUs49zH3iB8t3jsrcoAv1tT7D1P6t7GePxd7gwaXXdga44yddLLHQazwf9R7eNqX38Klio3gfagACh5hGfrtvwTO56pCVmip95QtsMUgHTCiGIJbUpOpsyb_jJEpB7osl-rnsEN5vDR8HYFxBoWyhsbTv5NoNmrggyfqAuSgLikBtoMqjE3tuk5sq1T1ZQI7kqyZd6OaLDUs-g2r7uROUNqQXZ2bTcnoNQSGhaB_4h6lTFuc_Zd9yhbXrzEMVbvuipjIEyDnaBERe8Wjh3AHHxvq0wfDyGUUa78sNMExlxV_770k4mhrd-&ts=.UTC_TS.&addx=.AD_CLK_PT_DOWN_X.&addy=.AD_CLK_PT_DOWN_Y.&adux=.AD_CLK_PT_UP_X.&aduy=.AD_CLK_PT_UP_Y.&scdx=.SCRN_CLK_PT_DOWN_X.&scdy=.SCRN_CLK_PT_DOWN_Y.&scux=.SCRN_CLK_PT_UP_X.&scuy=.SCRN_CLK_PT_UP_Y.&vt=__VT__&requestUuid=__REQUESTUUID__",
+                "convertUrl": "",
+                "onStart": "http://www.baidu.com/5",
+                "onPause": "",
+                "onRecover": "",
+                "onFinish": "http://www.baidu.com/6",
+                "percent25": "http://www.baidu.com/25/3",
+                "percent50": "http://www.baidu.com/50/3",
+                "percent75": "http://www.baidu.com/75/3"
+              }
+            ],
+            "landingPageUrl": "https://lp.pinduoduo.com/poros/h5?vst_scene=pdv&acc=100001&mt_id=101703471150&ads_type=laxin&vers=A87-L106-V190-F73-Sef&source=1&lx=1&creative_id=101703471150&resfm=0&super_channel=mrk_union_jiatou&order_type=0&page_uid=cabece321bfc4ef786b5c2b4b6f6e24a&ut=2&audience=0&tagid=auto_21&abs_id=137012&goods_id=481400539233&_da_is_reten=0&ads_set=10004880&vids=18048,13700,400001,17353,16653,18253,15630,18319,17874,18003,18067,18389,17498,18338,17827,17316,18404,18024,17388,18353,18297,17850,12411,18235,11839&ads_id=-1&pdd_bid_id=32c1190a4cd42d652d03000068804f0f529c331a_0&soid=32c1190a4cd42d652d03000068804f0f529c331a&ads_channel=mrk_union&display_id=549&ad_tag=3%3A2933%3A2&ads_csite=u_aff_splsh&price_st=0&delay_bid=0&cate1_id=2933&bid_adjust_tag=2&make=huawei&bundle=cn.etouch.ecalendar&ads_sub_channel=mrk_union_jiatou&lpck=78802f9a523cf295_1697502284884&plsn=94a197fb1b61f97e41d5fa0651e81eb9&os=android&src=mrk_union&ad_ltv=66.50897875976563&lxt=2&mat_c=6&st0=-1&ltv=-1&st16=0&app_name=cn.etouch.ecalendar&st1=68&mat_pkg_id=0&st3=OjimuDAOcPDDwTWFuCkoPxKcjM2aqkm7r0cxOA1HE8gfXXdaWEGdUQ%3D%3D&st12=1&st13=OBr91emWa0UfXXdaWEGdUQ%3D%3D&st8=1&y20=400001&bucket_dsp=94&st7=0&st11=0&st9=1",
+            "deeplinkUrl": "tbopen://m.taobao.com/tbopen/index.html?source=auto&action=ali.open.nav&module=h5&bootImage=0&spm=2014.ugdhh.2200803434468.227164-1660755-32768&activity_id=521083101&bc_fl_src=growth_dhh_2200803434468_227164-1660755-32768&materialid=227164&afc_route=1&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fa%2Fact%2Fju%2Fdailygroup%2F1750%2Fwupr%3FdisableNav%3DYES%26wh_pid%3Ddaily-245652%26tbshortcut%3Djhsautowidget%26spm%3D2014.ugdhh.2200803434468.227164-1660755-32768%26activity_id%3D521083101%26bc_fl_src%3Dgrowth_dhh_2200803434468_227164-1660755-32768",
+            "interactType": 5,
+            "apkName": "拼多多",
+            "packageName": "",
+            "appStoreID": "",
+            "appDesc": "",
+            "appDownloadURL": "market://details?id=com.tencent.mm",
+            "appVersion": "6.95.0",
+            "appDeveloper": "上海寻梦信息技术有限公司",
+            "appPermissionsDesc": "酷狗音乐产品与/或服务系统权限使用情况说明如下：\n\nAndroid 端\n一、电话权限（PHONE）\n权限名称：\nREAD_PHONE_STATE 读取电话状态\nANSWER_PNOHE_CALLS 接听来电（安卓8.0及以上版本需请求访问）\n使用场景/目的：用于来电/拨打电话时停止当前播放功能、视频铃声功能\n是否询问：是\n是否可关闭：是\n\n二、设备存储/相册权限（STORAGE）\n权限名称：\nREAD_EXTERNAL_STORAGE 读取外置存储器\nWRITE_EXTERNAL_STORAGE 写入外置存储器\n使用场景/目的：上传/更新账号头像、图文/视频制作与发布、评论、发帖、播放本地音视频、下载，使用个性皮肤、自定义皮肤、音效、一键DJ、一键派对、节奏闪光、安全听歌、设置歌词字体、直播间、礼物、音乐画报、视频铃声功能时\n是否询问：是\n是否可关闭：是\n\n三、相机权限（CAMERA）\n权限名称：CAMERA 拍摄\n使用场景/目的：使用设置或更新头像/个人空间背景图片、相册管理、图像保存、极速传歌（电脑传歌到手机）、视频录制、扫一扫、自定义皮肤、音乐画报、竖屏MV、发布图文/视频内容、直播、上传封面及偶遇个人封面业务功能时\n是否询问：是\n是否可关闭：是\n\n四、麦克风权限（MICROPHONE）\n权限名称：RECORD_AUDIO 录音\n使用场景/目的：使用直播、听歌识曲、哼唱识曲、声音录制、K房上麦、斗歌、朗读业务、语音聊天功能时\n是否询问：是\n是否可关闭：是\n\n五、日历权限（CALENDAR）\n权限名称：\nREAD_CALENDAR 读取日历\nWRITE_CALENDAR 写入日历\n使用场景/目的：使用节目预约功能\n是否询问：是\n是否可关闭：是\n\n六、通讯录权限（CONTACTS）\n权限名称：READ_CONTACTS 读取通讯录\n使用场景/目的：使用添加好友、邀请通讯录好友功能、好友推荐功能及设置来电视频功能\n是否询问：是\n是否可关闭：是\n\n七、位置权限（LOCATION）\n权限名称：\nACCESS_COARSE_LOCATION 访问精确位置\nACCESS_FINE_LOCATION 访问粗略位置\n使用场景/目的：使用跑步模式、附近、区域性榜单、按距离搜索等基于地理位置所提供的定位功能、在发布动态时使用定位功能；基于版权方地域限制等需要进一步确认用户位置时\n是否询问：是\n是否可关闭：是\n\n八、通话记录(CALL_LOG)\n权限名称：READ_CALL_LOG 读取通话记录\n权限名称：使用来电视频功能时，为了来电号码的正常显示\n是否询问：是\n是否可关闭：是\n\n九、特殊敏感权限\n悬浮窗权限\n权限名称：SYSTEM_ALERT_WINDOW\n使用场景/目的：使用竖屏MV、桌面歌词、直播间小窗模式、桌面识曲、充电动效功能、视频铃声功能时\n是否询问：是\n是否可关闭：是\n\n读取应用使用情况权限\n权限名称：PACKAGE_USAGE_STATS\n使用场景/目的：基于安全保障功能或拉起第三方应用、开启充电动效的游戏模式或煲剧模式时\n是否询问：是\n是否可关闭：是\n\n获取通知栏权限\n权限名称：BIND_NOTIFICATION_LISTENER_SERVICE\n使用场景/目的：开启充电动效功能、视频铃声功能时\n是否询问：是\n是否可关闭：是\n\n辅助模式\n权限名称：辅助（无障碍）模式（BIND_ACCESSIBILITY_SERVICE）\n使用场景/目的：用于设置视频铃声时，自动化开启所需的权限\n是否询问：是\n是否可关闭：是\n\n以上可关闭的权限，用户可通过所用设备的的设置功能关闭，也可通过我们产品客户端内隐私设置功能实现，具体路径为首页-侧边栏-设置-隐私设置。",
+            "appPermissionsUrl": "http://res1.hubcloud.com.cn/adx/clientInfo/2023/5/6/1683355622684.html",
+            "appPrivacyUrl": "http://sdkdoc.beizi.biz/#/zh-cn/guide/UsePrivacy",
+            "appIconURL": "https://res1.hubcloud.com.cn/dsp/ad/2024/1/31/1706690358943.jpg",
+            "appUpdateTime": 0,
+            "appPackageSizeBytes": 0,
+            "appintro": "market://details?id=com.xunmeng.pinduoduo&ref=&caller=com.ydtx.camera&token=Y2IzN2Y1MTQ2YWQ4YWZiOCMxNjk2OTc5MjIwMTk0IzEjY29tLnllay5hbmRyb2lkLmtmYy5hY3Rpdml0eXMjS29iZS8yNEAzYTlmMTUzZTUwZmIyMzZiNzA4YmVhOWQ3NTAyNDcxZQ==&style=0&m=adapi_1100004462&tk_con=eyJ0cmFja0lkIjoiNjE3MGFiMGI3Mjk3NmI3N2ZlZDhiOGExMjAyMGRiMTAiLCJkZXZpY2VJZCI6Ijg2OTMxODAzODQyMzgxNiIsImFwcElkIjoiNjMzMjg3IiwidmVyc2lvbklkIjoiMCIsImVudGVySWQiOiIxNCIsInBhZ2VJZCI6IjEwMDAwMSIsImFiIjoiIiwiYWRJZCI6Ii0xIiwidCI6IjE2OTY5NzkyMjAxOTIiLCJ2IjoidjEifQ%3D%3D&tk_ref=%7B%22adId%22%3A%22-1%22%2C%22trackId%22%3A%226170ab0b72976b77fed8b8a12020db10%22%7D&clk_score=default-80",
+            "useBuiltInBrow": true,
+            "openExternal": 1,
+            "removeSecondaryConfirmation": true,
+            "followTrackExt": {
+              "deepLinkSuccess": [
+                "http://v.adx.hubcloud.com.cn/adx/m/dplink/v1?id=nTI2r6SjyUNzE3qKiEND7rSbih4oGQCC-wtnGCAMzmpiGLZ2nzmGHF0YGi3OegQRwS0_hTTIJag2MkFGaDFFfazJKIjnR0-zKXFZEXAAm2E4U8DC02TtBv9A1Wyx3_NrBDSTfdlBefyjTBEoU2bYavHjSlWGA_M47nJtHPh8tQloCfcASdceh5rzmf0&aid=5528&impid=10142-022863f3-9b54-436e-acf8-2e045ccd36ea&sid=10925&ts=1712747152"
+              ],
+              "realDeepLinkSuccess": [
+                "http://v.adx.hubcloud.com.cn/adx/m/realdpsucc/v1?id=nTI2r6SjyUNzE3qKiEND7rSbih4oGQCC-wtnGCAMzmpiGLZ2nzmGHF0YGi3OegQRwS0_hTTIJag2MkFGaDFFfazJKIjnR0-zKXFZEXAAm2E4U8DC02TtBv9A1Wyx3_NrBDSTfdlBefyjTBEoU2bYavHjSlWGA_M47nJtHPh8tQloCfcASdceh5rzmf0&aid=5528&impid=10142-022863f3-9b54-436e-acf8-2e045ccd36ea&sid=10925&ts=1712747152"
+              ],
+              "dpAppInstalled": [
+                "http://v.adx.hubcloud.com.cn/adx/m/dpinstall/v1?id=nTI2r6SjyUNzE3qKiEND7rSbih4oGQCC-wtnGCAMzmpiGLZ2nzmGHF0YGi3OegQRwS0_hTTIJag2MkFGaDFFfazJKIjnR0-zKXFZEXAAm2E4U8DC02TtBv9A1Wyx3_NrBDSTfdlBefyjTBEoU2bYavHjSlWGA_M47nJtHPh8tQloCfcASdceh5rzmf0&aid=5528&impid=10142-022863f3-9b54-436e-acf8-2e045ccd36ea&sid=10925&ts=1712747152"
+              ],
+              "dpAppNotInstalled": [
+                "http://v.adx.hubcloud.com.cn/adx/m/dpnotinstall/v1?id=nTI2r6SjyUNzE3qKiEND7rSbih4oGQCC-wtnGCAMzmpiGLZ2nzmGHF0YGi3OegQRwS0_hTTIJag2MkFGaDFFfazJKIjnR0-zKXFZEXAAm2E4U8DC02TtBv9A1Wyx3_NrBDSTfdlBefyjTBEoU2bYavHjSlWGA_M47nJtHPh8tQloCfcASdceh5rzmf0&aid=5528&impid=10142-022863f3-9b54-436e-acf8-2e045ccd36ea&sid=10925&ts=1712747152"
+              ]
+            },
+            "ext": {
+              "canJumpStore": 1,
+              "isCloseConfirm": 0
+            }
+          },
+          "adLogo": {
+            "adLabelUrl": "http://res1.hubcloud.com.cn/map/logo/new-tjgg.png",
+            "adLabel": "广告",
+            "sourceUrl": "http://res1.hubcloud.com.cn/map/logo/new-10142.png",
+            "sourceLabel": "ADHUB"
+          },
+          "adid": "6666_10142-B",
+          "price": "10000",
+          "adverName": "",
+          "expireSec": 5400,
+          "rewardedVideo": {
+            "optimizeType": 2,
+            "optimizeTime": 5,
+            "showTime": 10,
+            "awardTime": 10
+          }
+        }
+      ],
+      "contentType": 12,
+      "useTestAd": false
+    }
+  ],
+  "ts": 1712747153487829800
+}

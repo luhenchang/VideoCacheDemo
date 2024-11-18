@@ -1,0 +1,34 @@
+{
+  "adResponse": [
+    {
+      "extInfo": "应用名称：平多多|开发者：上海寻梦信息技术有限公司|应用版本：6.95.0|权限详情|隐私协议|功能介绍",
+      "contentInfo": [
+        {
+          "renderType": 4,
+          "template": "{\"title\":\"APP 标题内容\",\"desc\":\"APP 描述内容\",\"lauchImageUrl\":\"http://res1.hubcloud.com.cn/dsp/ad/2024/1/29/1706521095604.jpg\",\"appIcon\":\"https://res1.hubcloud.com.cn/dsp/ad/2024/1/31/1706690358943.jpg\",\"videoUrl\":\"https://media.w3.org/2010/05/sintel/trailer.mp4\",\"videoTime\":\"60\"}"
+        }
+      ],
+      "rewardedVideo": {
+        "optimizeType": 1,
+        "optimizeTime": 5,
+        "showTime": 10,
+        "awardTime": 15
+      },
+      "adLogo": {
+        "adLabelUrl": "http://res1.hubcloud.com.cn/map/logo/new-tjgg.png",
+        "adLabel": "广告",
+        "sourceUrl": "http://res1.hubcloud.com.cn/map/logo/new-10142.png",
+        "sourceLabel": "ADHUB"
+      },
+      "adid": "6666_10142-B",
+      "price": "10000",
+      "adverName": "",
+      "expireSec": 5400
+    }
+  ],
+  "minTime": 30,
+  "mute": true,
+  "landingPageUrl": "https://lp.pinduoduo.com/poros/h5?vst_scene=pdv&acc=100001&mt_id=101703471150&ads_type=laxin&vers=A87-L106-V190-F73-Sef&source=1&lx=1&creative_id=101703471150&resfm=0&super_channel=mrk_union_jiatou&order_type=0&page_uid=cabece321bfc4ef786b5c2b4b6f6e24a&ut=2&audience=0&tagid=auto_21&abs_id=137012&goods_id=481400539233&_da_is_reten=0&ads_set=10004880&vids=18048,13700,400001,17353,16653,18253,15630,18319,17874,18003,18067,18389,17498,18338,17827,17316,18404,18024,17388,18353,18297,17850,12411,18235,11839&ads_id=-1&pdd_bid_id=32c1190a4cd42d652d03000068804f0f529c331a_0&soid=32c1190a4cd42d652d03000068804f0f529c331a&ads_channel=mrk_union&display_id=549&ad_tag=3%3A2933%3A2&ads_csite=u_aff_splsh&price_st=0&delay_bid=0&cate1_id=2933&bid_adjust_tag=2&make=huawei&bundle=cn.etouch.ecalendar&ads_sub_channel=mrk_union_jiatou&lpck=78802f9a523cf295_1697502284884&plsn=94a197fb1b61f97e41d5fa0651e81eb9&os=android&src=mrk_union&ad_ltv=66.50897875976563&lxt=2&mat_c=6&st0=-1&ltv=-1&st16=0&app_name=cn.etouch.ecalendar&st1=68&mat_pkg_id=0&st3=OjimuDAOcPDDwTWFuCkoPxKcjM2aqkm7r0cxOA1HE8gfXXdaWEGdUQ%3D%3D&st12=1&st13=OBr91emWa0UfXXdaWEGdUQ%3D%3D&st8=1&y20=400001&bucket_dsp=94&st7=0&st11=0&st9=1",
+  "deeplinkUrl": "tbopen://m.taobao.com/tbopen/index.html?source=auto&action=ali.open.nav&module=h5&bootImage=0&spm=2014.ugdhh.2200803434468.227164-1660755-32768&activity_id=521083101&bc_fl_src=growth_dhh_2200803434468_227164-1660755-32768&materialid=227164&afc_route=1&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fa%2Fact%2Fju%2Fdailygroup%2F1750%2Fwupr%3FdisableNav%3DYES%26wh_pid%3Ddaily-245652%26tbshortcut%3Djhsautowidget%26spm%3D2014.ugdhh.2200803434468.227164-1660755-32768%26activity_id%3D521083101%26bc_fl_src%3Dgrowth_dhh_2200803434468_227164-1660755-32768",
+  "appintro": "store://appgallery.huawei.com/app/detail?id=C5765880207854393123"
+}
