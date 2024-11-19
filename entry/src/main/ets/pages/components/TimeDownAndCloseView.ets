@@ -349,6 +349,7 @@ export struct TimeDownAndCloseView {
       if (this.showTime <= 0) {
         this.videoState = SendVideoState.COMPLETE;
         this.jumpThreadAppState = JumpThreadAppState.JUMP_BEFORE
+        this.rewardState = GetRewardedState.ALREADY_OBTAINED
         clearInterval(this.intervalId);
         return
       }
