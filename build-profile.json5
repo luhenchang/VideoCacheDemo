@@ -6,9 +6,9 @@
         "type": "HarmonyOS",
         "material": {
           "certpath": "C:\\Users\\12769\\.ohos\\config\\default_VideoCacheDemo_XIdFrLRuOBpn4MNo38K4wD4lWBAYA4Zvs6OpA4ZWM_A=.cer",
-          "storePassword": "0000001B7686A25C4556F56AF83089337ECD15A5A58397B67DABDA0C0D5C283032A9935488B41F12B0E848",
+          "storePassword": "0000001B1005F712C3A4E6D737C249212700F9FCEAAE102C46CC418B77A95AD04CD3486385FB7165073610",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B4C17C71CC9D2C1294C66E6D954420805B86145D64CC1A72976050342F5DBF1CFA9DA18F13A201E",
+          "keyPassword": "0000001BAAC27ADDAB14E9D3E6A0BB3190ABAE926C29A93E084FA12A9200487E92D7F6A50443C90FB5365E",
           "profile": "C:\\Users\\12769\\.ohos\\config\\default_VideoCacheDemo_XIdFrLRuOBpn4MNo38K4wD4lWBAYA4Zvs6OpA4ZWM_A=.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "C:\\Users\\12769\\.ohos\\config\\default_VideoCacheDemo_XIdFrLRuOBpn4MNo38K4wD4lWBAYA4Zvs6OpA4ZWM_A=.p12"
