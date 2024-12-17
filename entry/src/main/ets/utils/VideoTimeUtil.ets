@@ -2,9 +2,9 @@ import { VideoContentInfo } from '../data/VideoContentInfo'
 import { VideoModel } from '../data/VideoModel'
 
 export class VideoTimeUtil {
-  static getShowTime(videoModel: VideoModel): number {
+  static getAwardTime(videoModel: VideoModel): number {
     if (videoModel.adResponse && videoModel.adResponse.length > 0) {
-      return videoModel.adResponse[0].rewardedVideo?.showTime ?? 0
+      return videoModel.adResponse[0].rewardedVideo?.awardTime ?? 0
     }
     return 0
   }

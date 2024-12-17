@@ -5,11 +5,11 @@
       "contentInfo": [
         {
           "renderType": 4,
-          "template": "{\"title\":\"APP 标题内容\",\"desc\":\"APP 描述内容\",\"lauchImageUrl\":\"http://res1.hubcloud.com.cn/dsp/ad/2024/1/29/1706521095604.jpg\",\"appIcon\":\"https://res1.hubcloud.com.cn/dsp/ad/2024/1/31/1706690358943.jpg\",\"videoUrl\":\"https://media.w3.org/2010/05/sintel/trailer.mp4\",\"videoTime\":\"60\"}"
+          "template": "{\"title\":\"APP 标题内容\",\"desc\":\"APP 描述内容\",\"lauchImageUrl\":\"http://res1.hubcloud.com.cn/dsp/ad/2024/1/29/1706521095604.jpg\",\"appIcon\":\"https://res1.hubcloud.com.cn/dsp/ad/2024/1/31/1706690358943.jpg\",\"videoUrl\":\"https://adhub-assc-file.oss-cn-beijing.aliyuncs.com/83627c5cfea69ed2188452a3e2258de8.mp4\",\"videoTime\":\"60\"}"
         }
       ],
       "rewardedVideo": {
-        "optimizeType": 1,
+        "optimizeType": 2,
         "optimizeTime": 5,
         "showTime": 10,
         "awardTime": 10

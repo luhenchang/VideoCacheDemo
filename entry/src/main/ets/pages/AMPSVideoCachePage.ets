@@ -1,14 +1,13 @@
-import { CircleShape, promptAction, PromptAction, router } from '@kit.ArkUI';
 import { VideoContentInfo } from '../data/VideoContentInfo';
 import { VideoModel } from '../data/VideoModel';
 import { FileUtil } from '../utils/FileUtil';
 import { VideoTimeUtil } from '../utils/VideoTimeUtil';
+import { AMPSJkVideoCacheView } from './AMPSJkVideoCacheView';
 import { AMPSVideoCacheView } from './AMPSVideoCacheView';
 import { JumpThreadAppState, ThreeWayAdView } from './components/ThreaWayAdView';
 import { TimeDownAndCloseView } from './components/TimeDownAndCloseView';
 import { VideoCompletedView } from './components/VideoCompletedView';
 import { AMPSVideoVoiceView } from './components/VideoVoiceView';
-import Logger from './Logger';
 
 const TAG: string = 'AMPSVideo Log';
 
@@ -34,7 +33,7 @@ struct AMPSVideoCachePage {
 
   // 界面初始化函数
   async aboutToAppear() {
-    let videoResponse = await FileUtil.getRawFileContentStr("video_test_type_1.json")
+    let videoResponse = await FileUtil.getRawFileContentStr("video_test_type_2.json")
     this.videoModel = JSON.parse(videoResponse) as VideoModel
     this.videoContent = VideoTimeUtil.getVideoContentInfo(this.videoModel)
   }
@@ -45,7 +44,6 @@ struct AMPSVideoCachePage {
       AMPSVideoCacheView({ videoName: this.videoContent?.videoUrl }).width('100%')
       ThreeWayAdView({ videoModel: this.videoModel, videoContent: this.videoContent })
       VideoCompletedView({ videoModel: this.videoModel, videoContent: this.videoContent })
-
       Row() {
         AMPSVideoVoiceView().align(Alignment.TopStart)
 
